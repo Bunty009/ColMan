@@ -1,0 +1,10 @@
+On 4/12/2018 1:54:27 AM, following error occured in the application:
+Message: A chart element with the name 'CountCollection' could not be found in the 'SeriesCollection'.
+Source: System.Windows.Forms.DataVisualization
+Stack Trace:    at System.Windows.Forms.DataVisualization.Charting.ChartNamedElementCollection`1.get_Item(String name)
+   at VighnhartaColors.Home.BindPieChart() in D:\Vinayak.Ramane\New Projects\VS 2010\New ColMan\ColMan\ColMan\Home.cs:line 152
+   at VighnhartaColors.Home.BindChartData() in D:\Vinayak.Ramane\New Projects\VS 2010\New ColMan\ColMan\ColMan\Home.cs:line 137
+   at VighnhartaColors.Home..ctor() in D:\Vinayak.Ramane\New Projects\VS 2010\New ColMan\ColMan\ColMan\Home.cs:line 26
+   at VighnhartaColors.Login.btnLogin_Click(Object sender, EventArgs e) in D:\Vinayak.Ramane\New Projects\VS 2010\New ColMan\ColMan\ColMan\Login.cs:line 52
+HelpLink: 
+-------------------------------------------------------------------------------

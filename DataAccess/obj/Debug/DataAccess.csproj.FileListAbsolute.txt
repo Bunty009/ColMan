@@ -1,0 +1,4 @@
+D:\Vinayak.Ramane\New Projects\VS 2010\New ColMan\ColMan\DataAccess\bin\Debug\DataAccess.dll
+D:\Vinayak.Ramane\New Projects\VS 2010\New ColMan\ColMan\DataAccess\bin\Debug\DataAccess.pdb
+D:\Vinayak.Ramane\New Projects\VS 2010\New ColMan\ColMan\DataAccess\obj\Debug\DataAccess.dll
+D:\Vinayak.Ramane\New Projects\VS 2010\New ColMan\ColMan\DataAccess\obj\Debug\DataAccess.pdb
